@@ -3,3 +3,4 @@ Git is free software.
 This text is a practice for git.
 add one line now 2019010816
 add one line for test branch
+add one line for test user rights.
